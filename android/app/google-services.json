@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458085630299",
+    "project_id": "viver-ativo-dc81a",
+    "storage_bucket": "viver-ativo-dc81a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458085630299:android:7ecbb6ddd5335d4d11da7e",
+        "android_client_info": {
+          "package_name": "com.andrey.viverativo.viver_ativo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPYgD-WeifGiBlfY0X_QE5AYBBhRdoiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

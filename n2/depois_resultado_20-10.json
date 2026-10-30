@@ -1,0 +1,33 @@
+{
+  "operacao": "listar equipamentos pela camada de cache",
+  "ttl_s": 300,
+  "tamanho_arquivo_bytes": 20905,
+  "primeira_leitura_miss": {
+    "N": 1,
+    "tempo_total_ms": 248.895,
+    "tempo_medio_ms": 248.895,
+    "mediana_ms": 248.647,
+    "p95_ms": 248.647,
+    "min_ms": 248.647,
+    "max_ms": 248.647
+  },
+  "hit_memoria": {
+    "N": 1000,
+    "tempo_total_ms": 12.58,
+    "tempo_medio_ms": 0.013,
+    "mediana_ms": 0.01,
+    "p95_ms": 0.012,
+    "min_ms": 0.009,
+    "max_ms": 0.42
+  },
+  "hit_arquivo": {
+    "N": 1000,
+    "tempo_total_ms": 546.008,
+    "tempo_medio_ms": 0.546,
+    "mediana_ms": 0.517,
+    "p95_ms": 0.693,
+    "min_ms": 0.428,
+    "max_ms": 4.457
+  },
+  "data": "2026-10-20T23:12:00.026563"
+}

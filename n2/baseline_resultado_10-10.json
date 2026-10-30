@@ -1,0 +1,17 @@
+{
+  "operacao": "GET /equipamentos com join (listar equipamentos)",
+  "N": 1000,
+  "tempo_total_s": 46.12,
+  "tempo_medio_ms": 46.12,
+  "mediana_ms": 43.52,
+  "p95_ms": 63.35,
+  "min_ms": 35.93,
+  "max_ms": 153.65,
+  "bytes_por_resposta": 21118,
+  "linhas_no_banco": {
+    "equipamentos": 11,
+    "exercicios": 22,
+    "treinos": 6
+  },
+  "data": "2026-10-10T11:09:51.417920"
+}
